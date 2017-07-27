@@ -1,5 +1,11 @@
-MAC MEMO IMPORTER
-=================
+# Mac mamo file parser
 
-Import memo data of mac standard application 'MEMO'.
+Parse Mac Memo.app data.  
+But this script support under Yosemite.  
+I don't try later from Yosemite.  
 
+## Usage
+
+## Licence 
+
+MIT
